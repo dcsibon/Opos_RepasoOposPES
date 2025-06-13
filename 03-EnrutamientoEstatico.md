@@ -1,6 +1,9 @@
-# 03 - Enrutamiento Estático
 
-## 10. Tablas de enrutamiento por router (formato de examen)
+# Curso Intensivo de Redes para Oposiciones PES Informática
+
+## 3. Enrutamiento Estático
+
+### 3.10. Tablas de enrutamiento por router (formato de examen)
 
 A continuación se presentan las tablas de enrutamiento completas para cada router, en el formato habitual de examen:
 
